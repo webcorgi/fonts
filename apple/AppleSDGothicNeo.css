@@ -1,0 +1,25 @@
+/* SDgothic */
+@font-face {
+    font-family: 'SDgothic';
+    font-style: normal;
+    font-weight: 300;
+    src: url("./AppleSDGothicNeoL.woff") format('woff'), url("./AppleSDGothicNeoL.ttf") format('truetype');
+}
+@font-face {
+    font-family: 'SDgothic';
+    font-style: normal;
+    font-weight: 400;
+    src: url("./AppleSDGothicNeoR.woff") format('woff'), url("./AppleSDGothicNeoR.ttf") format('truetype');
+}
+@font-face {
+    font-family: 'SDgothic';
+    font-style: normal;
+    font-weight: 500;
+    src: url("./AppleSDGothicNeoM.woff") format('woff'), url("./AppleSDGothicNeoM.ttf") format('truetype');
+}
+@font-face {
+    font-family: 'SDgothic';
+    font-style: normal;
+    font-weight: 600;
+    src: url("./AppleSDGothicNeoB.woff") format('woff'), url("./AppleSDGothicNeoB.ttf") format('truetype');
+}
