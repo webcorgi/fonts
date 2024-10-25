@@ -2,17 +2,17 @@
     font-family: 'VITRO_CORE';
     font-style: normal;
     font-weight: 400;
-    src: url("./VITRO_CORE.woff") format('woff'), url("./VITRO_CORE.ttf") format('truetype');
+    src: url("./VITRO_CORE.woff2") format('woff');
 }
 @font-face {
     font-family: 'VITRO_PRIDE';
     font-style: normal;
     font-weight: 400;
-    src: url("./VITRO_PRIDE.woff") format('woff'), url("./VITRO_PRIDE.ttf") format('truetype');
+    src: url("./VITRO_PRIDE.woff2") format('woff');
 }
 @font-face {
     font-family: 'VITRO_INSPIRE';
     font-style: normal;
     font-weight: 400;
-    src: url("./VITRO_INSPIRE.woff") format('woff'), url("./VITRO_INSPIRE.ttf") format('truetype');
+    src: url("./VITRO_INSPIRE.woff2") format('woff');
 }
